@@ -1,0 +1,13 @@
+project:
+  name: Climate Trend Analyzer
+
+forecast:
+  model: arima
+  years: 15
+
+anomaly:
+  zscore_threshold: 2
+  iqr_multiplier: 1.5
+
+plots:
+  dpi: 300

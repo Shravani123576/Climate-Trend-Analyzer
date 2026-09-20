@@ -1,0 +1,4 @@
+Year,Temperature_Anomaly,IQR_Lower,IQR_Upper,IQR_Anomaly,IQR_Anomaly_Type
+2023,1.17,-0.9762500000000001,1.09375,True,Outlier
+2024,1.28,-0.9762500000000001,1.09375,True,Outlier
+2025,1.19,-0.9762500000000001,1.09375,True,Outlier

@@ -1,0 +1,11 @@
+Metric,Value
+Metric,"0     MSE
+1    RMSE
+2      R2
+3     MAE
+Name: Metric, dtype: str"
+Value,"0    0.037420
+1    0.193442
+2    0.766687
+3    0.157775
+Name: Value, dtype: float64"

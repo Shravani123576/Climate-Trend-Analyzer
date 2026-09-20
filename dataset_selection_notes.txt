@@ -1,0 +1,50 @@
+CLIMATE TREND ANALYZER
+
+DATASET SELECTION NOTES
+
+Project Name:
+Climate Trend Analyzer
+
+Dataset Name:
+GLB.Ts+dSST.csv
+
+Dataset Source:
+NASA Goddard Institute for Space Studies (NASA GISS)
+
+Dataset Category:
+Global Surface Temperature Anomaly Dataset
+
+Description:
+This dataset contains global annual and monthly temperature anomalies derived from land surface temperature measurements and sea surface temperature observations. It is widely used for climate change and global warming studies.
+
+Project Objective:
+To analyze historical global temperature patterns, identify long-term warming trends, detect climate anomalies, and forecast future temperature behavior.
+
+Reason for Selecting This Dataset:
+
+1. Official dataset provided by NASA.
+2. Covers a long historical period suitable for trend analysis.
+3. Frequently used in climate research and environmental studies.
+4. Ideal for time-series analysis and forecasting.
+5. Helps demonstrate real-world data analytics skills.
+
+Planned Project Activities:
+
+* Data Cleaning
+* Exploratory Data Analysis
+* Trend Analysis
+* Climate Anomaly Detection
+* Temperature Forecasting
+* Dashboard Development
+* Insight Generation
+
+Expected Outcome:
+The project will reveal long-term global temperature trends, identify abnormal climate events, and provide forecasts of future temperature anomalies.
+
+
+
+Prepared By:
+[Shravani Barhanpurkar]
+
+Date:
+[19/6/2026]
